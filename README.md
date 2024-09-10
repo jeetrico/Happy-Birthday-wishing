@@ -40,8 +40,7 @@ To customize the birthday message or decorations:
 
 ### Example Output
 
-![Happy Birthday Example](![Screenshot 2024-09-10 144941](https://github.com/user-attachments/assets/7a93cdcf-0e7d-435f-90f8-46c243c2b63f)
-)
+![Happy Birthday Example]![Screenshot 2024-09-10 144941](https://github.com/user-attachments/assets/7a93cdcf-0e7d-435f-90f8-46c243c2b63f)
 
 ## Contributing
 
