@@ -20,8 +20,8 @@ Welcome to my Happy Birthday Turtle Graphics project! 🎉 This Python script us
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/jeetrico/happy-birthday-turtle-graphics.git
-   cd happy-birthday-turtle-graphics
+   git clone https://github.com/jeetrico/Happy-Birthday-wishing.git
+   cd Happy-Birthday-wishing
    ```
 
 2. **Run the Script**
